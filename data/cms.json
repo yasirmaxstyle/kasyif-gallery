@@ -1,0 +1,58 @@
+{
+  "artworks": [
+    {
+      "id": "1",
+      "category": "design art",
+      "title": "Batik Poster",
+      "artist": "Student Name",
+      "class": "Class Name",
+      "desc": "Batik Poster ini menggambarkan harmoni antara teknologi dan alam. Dibuat menggunakan Adobe Illustrator dengan pendekatan flat design yang modern.",
+      "tags": "design art,poster,illustrator",
+      "bg": "#c9b99a"
+    },
+    {
+      "id": "2",
+      "category": "batik art",
+      "title": "Painting Study",
+      "artist": "Student Name",
+      "class": "Class Name",
+      "desc": "Studi lukisan yang mengeksplorasi teknik cat air untuk menangkap nuansa cahaya pagi hari di pedesaan Jawa. Setiap warna dipilih dengan cermat untuk membangkitkan rasa tenang.",
+      "tags": "abstract art,watercolor,landscape",
+      "bg": "#9aabb9"
+    },
+    {
+      "id": "3",
+      "category": "abstract art",
+      "title": "Golden Hour",
+      "artist": "Student Name",
+      "class": "Class Name",
+      "desc": "Foto ini diambil saat matahari terbenam di alun-alun kota. Komposisi rule-of-thirds digunakan untuk menciptakan keseimbangan visual antara langit dan siluet bangunan.",
+      "tags": "abstract art,landscape,golden hour",
+      "bg": "#a9bfa9"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "category": "Proses Kreatif",
+      "title": "Mengapa Fotografi Mengubah Cara Saya Melihat Dunia",
+      "author": "Student Name",
+      "readTime": "4 menit baca",
+      "content": "Kamera bukan sekadar alat—ia adalah cara baru untuk melihat. Setiap kali saya menekan tombol rana, saya belajar memperhatikan detail yang sebelumnya tidak pernah saya sadari. Cahaya yang jatuh di sudut tembok, bayangan yang membentuk pola geometris, tekstur yang tersembunyi di balik permukaan biasa. Fotografi mengajarkan saya untuk hadir sepenuhnya di setiap momen, karena gambar yang terbaik lahir dari kehadiran, bukan kebetulan.",
+      "tags": "fotografi,proses kreatif,persepsi",
+      "bg": "linear-gradient(135deg,#a9bfa9,#c4b5c9)",
+      "emoji": "🌿"
+    },
+    {
+      "id": "2",
+      "category": "Budaya & Seni",
+      "title": "Batik sebagai Bahasa: Identitas dalam Motif",
+      "author": "Student Name",
+      "readTime": "6 menit baca",
+      "content": "Ketika saya mulai mengeksplorasi motif batik dalam desain digital, saya tidak menyangka akan menemukan begitu banyak cerita tersembunyi dalam setiap pola. Batik bukan hanya kain—ia adalah teks yang menyimpan filosofi, sejarah, dan identitas. Motif Parang mengajarkan tentang keberanian; Kawung tentang keseimbangan. Setiap goresan memiliki makna yang diwariskan dari generasi ke generasi. Dalam proyek ini, saya belajar bahwa desain yang baik selalu berakar pada cerita.",
+      "tags": "batik,budaya,identitas,desain",
+      "bg": "linear-gradient(135deg,#c4b5c9,#bfb9a9)",
+      "emoji": "💡"
+    }
+  ]
+}
